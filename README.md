@@ -1,8 +1,8 @@
-# Randomized A/B Testing
+# Semi-randomized experimentation and In-Store Testing – Pressbyrån and 7-Eleven
 
 This repository contains deliverables on: 
 
-**A Semi-randomized: Store testing analysis with Synthetic Control Method(SCM)**  
+**Semi-randomized: Store testing analysis with Synthetic Control Method(SCM)**  
    - Retail tests run at Pressbyrån and 7-Eleven stores.  
    - Analyzed using **Synthetic Control Methods** to evaluate impact.  
    - Includes planning tools, method descriptions, and workflows to show structured experiment design and execution.
